@@ -106,3 +106,18 @@ input.custom-toggle:checked + label.custom-toggle-label:after {
     transform: translate(70%, -50%);
     background: #2f80ff;
 }
+.hmsui-videoList-videoTileContainer.tw-1gv6law:only-child {
+  width: 100vw !important;
+  height: 100vh  !important;
+  padding: 0px !important;
+  border-radius: 0px !important;
+}
+
+@media (min-width: 768px) {
+.hmsui-carousel-rootHorizontal {
+    padding-bottom: 0rem !important;
+}
+}
+.hmsui-videoList-videoTileContainer.tw-1gv6law:only-child .hmsui-video-video {
+  border-radius: 0px !important;
+}

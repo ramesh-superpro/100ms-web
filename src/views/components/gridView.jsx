@@ -7,7 +7,6 @@ import {
 import { ChatView } from "./chatView";
 import { getBlurClass } from "../../common/utils";
 import eventsImg from "../../images/event-zoom-clone.png";
-
 const MAX_TILES_FOR_MOBILE = 4;
 
 /**
